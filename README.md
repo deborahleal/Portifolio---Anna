@@ -1,4 +1,4 @@
-                                                    👗 Portfólio de AnnaBella – Modelo Fictícia 🌟
+                                      👗 Portfólio de AnnaBella – Modelo Fictícia 🌟
 
 Esse projeto foi criado com o objetivo de praticar e aprimorar minhas habilidades em desenvolvimento web. O portfólio foi feito para uma modelo fictícia chamada AnnaBella, e a ideia era simular um site profissional que mostrasse seu trabalho, incluindo suas fotos, biografia e conquistas.
 
